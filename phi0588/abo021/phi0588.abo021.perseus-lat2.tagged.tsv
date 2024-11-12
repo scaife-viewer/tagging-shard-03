@@ -1,0 +1,540 @@
+1.1	0	Hi	PRON	pronoun	Case=Nom|Gender=Masc|Number=Plur|Person=3	hic	nsubj	5
+1.1	1	fere	ADV	adverb		fere	advmod:emph	0
+1.1	2	fuerunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Perf|VerbForm=Fin	sum	cop	5
+1.1	3	Graecae	ADJ	adjective	Case=Gen|Gender=Fem|Number=Sing	Graecus	amod	4
+1.1	4	gentis	NOUN	noun	Case=Gen|Gender=Fem|Number=Sing	gens	nmod	5
+1.1	5	duces	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	dux	ROOT	5
+1.1	6	,	PUNCT	punc		,	punct	10
+1.1	7	qui	PRON	pronoun	Case=Nom|Gender=Masc|Number=Plur	qui	nsubj:pass	10
+1.1	8	memoria	NOUN	noun	Case=Abl|Gender=Fem|Number=Sing	memoria	obl:arg	9
+1.1	9	digni	ADJ	adjective	Case=Nom|Gender=Masc|Number=Plur	dignus	xcomp	10
+1.1	10	videantur	VERB	verb	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	uideo	acl:relcl	5
+1.1	11	,	PUNCT	punc		,	punct	13
+1.1	12	praeter	ADP	preposition		praeter	case	13
+1.1	13	reges	NOUN	noun	Case=Acc|Gender=Masc|Number=Plur	rex	obl	10
+1.1	14	:	PUNCT	punc		:	punct	5
+1.1	15	namque	PART	particle		namque	discourse	18
+1.1	16	eos	PRON	pronoun	Case=Acc|Gender=Masc|Number=Plur|Person=3	is	obj	17
+1.1	17	attingere	VERB	verb	Case=Acc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Inf|Voice=Act	attingo	ccomp	18
+1.1	18	noluimus	VERB	verb	Mood=Ind|Number=Plur|Person=1|Tense=Perf|VerbForm=Fin|Voice=Act	nolo	ROOT	18
+1.1	19	,	PUNCT	punc		,	punct	26
+1.1	20	quod	SCONJ	conjunction		quod	mark	26
+1.1	21	omnium	DET	adjective	Case=Gen|Gender=Masc|Number=Plur	omnis	nmod	22
+1.1	22	res	NOUN	noun	Case=Nom|Gender=Fem|Number=Plur	res	nsubj:pass	26
+1.1	23	gestae	VERB	verb	Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	gestae	acl	22
+1.1	24	separatim	ADV	adverb		separatim	advmod	26
+1.1	25	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	aux:pass	26
+1.1	26	relatae	VERB	verb	Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	refero	advcl	18
+1.1	27	.	PUNCT	punc		.	punct	18
+1.2	0	 	ADV	verb		 	ROOT	0
+1.2	1	neque	CCONJ	conjunction		neque	cc	6
+1.2	2	tamen	ADV	adverb		tamen	advmod	6
+1.2	3	ii	PRON	pronoun	Case=Nom|Gender=Masc|Number=Plur|Person=3	is	nsubj	6
+1.2	4	admodum	ADV	adverb		admodum	advmod	6
+1.2	5	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	6
+1.2	6	multi	DET	adjective	Case=Nom|Gender=Masc|Number=Plur	multus	conj	0
+1.2	7	.	PUNCT	punc		.	punct	6
+1.2	8	Lacedaemonius	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	lacedaemonius	amod	10
+1.2	9	autem	PART	conjunction		autem	discourse	16
+1.2	10	Agesilaus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Agesilaus	nsubj	16
+1.2	11	nomine	NOUN	noun	Case=Abl|Gender=Neut|Number=Sing	nomen	obl	16
+1.2	12	,	PUNCT	punc		,	punct	11
+1.2	13	non	PART	particle		non	advmod:neg	14
+1.2	14	potestate	NOUN	noun	Case=Abl|Gender=Fem|Number=Sing	potestas	obl	16
+1.2	15	fuit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Perf|VerbForm=Fin	sum	cop	16
+1.2	16	rex	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	rex	ROOT	16
+1.2	17	,	PUNCT	punc		,	punct	20
+1.2	18	sicut	SCONJ	conjunction		sicut	mark	20
+1.2	19	ceteri	DET	adjective	Case=Nom|Gender=Masc|Number=Plur	ceterus	det	20
+1.2	20	Spartani	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Plur	Spartanus	advcl	16
+1.2	21	.	PUNCT	punc		.	punct	16
+1.2	22	ex	ADP	ADP		ex	case	23
+1.2	23	iis	PRON	pronoun	Case=Abl|Gender=Masc|Number=Plur|Person=3	is	obl	31
+1.2	24	vero	ADV	adverb		uero	discourse	31
+1.2	25	,	PUNCT	punc		,	punct	24
+1.2	26	qui	PRON	pronoun	Case=Nom|Gender=Masc|Number=Plur	qui	nsubj	29
+1.2	27	dominatum	VERB	verb	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	dominor	xcomp	29
+1.2	28	imperio	NOUN	noun	Case=Acc|Gender=Neut|Number=Sing	imperium	obl	27
+1.2	29	tenuerunt	VERB	verb	Mood=Ind|Number=Plur|Person=3|Tense=Perf|VerbForm=Fin|Voice=Act	teneo	acl:relcl	23
+1.2	30	,	PUNCT	punc		,	punct	29
+1.2	31	excellentissimi	VERB	verb	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	excellentissimi	ROOT	31
+1.2	32	fuerunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Perf|VerbForm=Fin	sum	aux	31
+1.2	33	,	PUNCT	punc		,	punct	36
+1.2	34	ut	SCONJ	conjunction		ut	mark	36
+1.2	35	nos	PRON	pronoun	Case=Nom|Number=Plur|Person=1	nos	nsubj	36
+1.2	36	iudicamus	VERB	verb	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	iudico	advcl:cmp	31
+1.2	37	,	PUNCT	punc		,	punct	38
+1.2	38	Persarum	PROPN	proper_noun	Case=Gen|Gender=Masc|Number=Plur	Persa	nmod	39
+1.2	39	Cyrus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Cyrus	nsubj	31
+1.2	40	et	CCONJ	conjunction		et	cc	41
+1.2	41	Darius	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Darius	conj	39
+1.2	42	,	PUNCT	punc		,	punct	44
+1.2	43	Hystaspi	PROPN	proper_noun	Case=Gen|Gender=Masc|Number=Sing	Hystaspus	nmod	44
+1.2	44	filius	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	filius	appos	41
+1.2	45	,	PUNCT	punc		,	punct	52
+1.2	46	quorum	PRON	pronoun	Case=Gen|Gender=Masc|Number=Plur	qui	nmod	47
+1.2	47	uterque	DET	adjective	Case=Nom|Gender=Masc|Number=Sing	uterque	det	50
+1.2	48	privatus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	priuatus	acl	47
+1.2	49	virtute	NOUN	noun	Case=Abl|Gender=Fem|Number=Sing	uirtus	obl	48
+1.2	50	regnum	NOUN	noun	Case=Acc|Gender=Neut|Number=Sing	regnum	obj	52
+1.2	51	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	aux:pass	52
+1.2	52	adeptus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	adipiscor	dep	31
+1.2	53	.	PUNCT	punc		.	punct	31
+1.2	54	prior	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	prior	nsubj	60
+1.2	55	horum	DET	adjective	Case=Gen|Gender=Masc|Number=Plur	hic	nmod	54
+1.2	56	apud	ADP	ADP		apud	case	57
+1.2	57	Massagetas	PROPN	noun	Case=Acc|Gender=Masc|Number=Plur	Massageta	obl	54
+1.2	58	in	ADP	ADP		in	case	59
+1.2	59	proelio	NOUN	noun	Case=Abl|Gender=Neut|Number=Sing	proelium	obl	60
+1.2	60	cecidit	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Perf|VerbForm=Fin|Voice=Act	cado	ROOT	60
+1.2	61	,	PUNCT	punc		,	punct	65
+1.2	62	Darius	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Darius	nsubj	65
+1.2	63	senectute	NOUN	noun	Case=Abl|Gender=Fem|Number=Sing	senectus	obl	65
+1.2	64	diem	NOUN	noun	Case=Acc|Gender=Masc|Number=Sing	dies	obj	65
+1.2	65	obiit	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Perf|VerbForm=Fin|Voice=Act	obeo	conj	60
+1.2	66	supremum	ADJ	adjective	Case=Acc|Gender=Masc|Number=Sing	superior	obj	65
+1.2	67	.	PUNCT	punc		.	punct	60
+1.3	0	 	ADV	verb		 	ROOT	0
+1.3	1	tres	NUM	number	Case=Nom|Gender=Fem|Number=Plur	tres	nsubj	5
+1.3	2	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	5
+1.3	3	praeterea	ADV	adverb		praeterea	advmod	5
+1.3	4	eiusdem	DET	adjective	Case=Gen|Gender=Fem|Number=Sing	idem	det	5
+1.3	5	gentis	NOUN	noun	Case=Gen|Gender=Fem|Number=Sing	gens	case	0
+1.3	6	:	PUNCT	punc		:	punct	5
+1.3	7	Xerxes	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Xerxes	ROOT	7
+1.3	8	et	CCONJ	conjunction		et	cc	10
+1.3	9	duo	NUM	number	Case=Nom|Gender=Masc|Number=Plur	duo	nummod	10
+1.3	10	Artaxerxae	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Plur	Artaxerxas	conj	7
+1.3	11	,	PUNCT	punc		,	punct	12
+1.3	12	Macrochir	PROPN	adjective		Macrochirus	nmod	13
+1.3	13	cognomine	NOUN	noun	Case=Abl|Gender=Neut|Number=Sing	cognomen	conj	7
+1.3	14	et	CCONJ	conjunction		et	cc	15
+1.3	15	Mnemon	PROPN	noun		Mnemon	conj	7
+1.3	16	.	PUNCT	punc		.	punct	7
+1.3	17	Xerxi	PROPN	proper_noun	Case=Gen|Gender=Masc|Number=Sing	Xerxius	nsubj	20
+1.3	18	maxime	ADV	adverb		magne	advmod	20
+1.3	19	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	20
+1.3	20	illustre	ADJ	adjective	Case=Nom|Gender=Neut|Number=Sing	illustris	ROOT	20
+1.3	21	,	PUNCT	punc		,	punct	32
+1.3	22	quod	SCONJ	pronoun		quod	mark	32
+1.3	23	maximis	ADJ	adjective	Case=Abl|Gender=Masc|Number=Plur	maximus	amod	27
+1.3	24	post	ADP	preposition		post	case	26
+1.3	25	hominum	NOUN	noun	Case=Gen|Gender=Masc|Number=Plur	homo	nmod	26
+1.3	26	memoriam	NOUN	noun	Case=Acc|Gender=Fem|Number=Sing	memoria	nmod	27
+1.3	27	exercitibus	NOUN	noun	Case=Abl|Gender=Masc|Number=Plur	exercitus	obl	32
+1.3	28	terra	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	terra	nsubj	32
+1.3	29	mari	NOUN	noun	Case=Dat|Gender=Neut|Number=Sing	mari	obl	32
+1.3	30	que	ADV	adjective		que	obl	32
+1.3	31	bellum	NOUN	noun	Case=Acc|Gender=Neut|Number=Sing	bellum	obj	32
+1.3	32	intulit	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Perf|VerbForm=Fin|Voice=Act	infero	acl:relcl	20
+1.3	33	Graeciae	PROPN	proper_noun	Case=Gen|Gender=Fem|Number=Sing	Graecia	obl	32
+1.3	34	.	PUNCT	punc		.	punct	20
+1.4	0	 	ADV	verb		 	ROOT	0
+1.4	1	at	CCONJ	conjunction		at	cc	4
+1.4	2	Macrochir	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Macrochir	nsubj	4
+1.4	3	praecipuam	ADJ	adjective	Case=Acc|Gender=Fem|Number=Sing	praecipuus	amod	5
+1.4	4	habet	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	habeo	conj	0
+1.4	5	laudem	NOUN	noun	Case=Acc|Gender=Fem|Number=Sing	laus	obj	4
+1.4	6	amplissimae	ADJ	adjective	Case=Gen|Gender=Fem|Number=Sing	amplus	amod	9
+1.4	7	pulcherrimae	ADJ	adjective	Case=Gen|Gender=Fem|Number=Sing	pulcherrimae	amod	9
+1.4	8	que	DET	adjective	Case=Gen|Gender=Fem|Number=Sing	que	amod	9
+1.4	9	corporis	NOUN	noun	Case=Gen|Gender=Neut|Number=Sing	corpus	nmod	10
+1.4	10	formae	NOUN	noun	Case=Gen|Gender=Fem|Number=Sing	forma	nmod	5
+1.4	11	,	PUNCT	punc		,	punct	14
+1.4	12	quam	PRON	conjunction	Case=Acc|Gender=Fem|Number=Sing	quam	obj	14
+1.4	13	incredibili	ADJ	adjective	Case=Abl|Gender=Fem|Number=Sing	incredibilis	amod	15
+1.4	14	ornavit	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Perf|VerbForm=Fin|Voice=Act	orno	acl:relcl	5
+1.4	15	virtute	NOUN	noun	Case=Abl|Gender=Fem|Number=Sing	uirtus	obl	14
+1.4	16	belli	NOUN	noun	Case=Gen|Gender=Neut|Number=Sing	bellum	nmod	15
+1.4	17	:	PUNCT	punc		:	punct	4
+1.4	18	namque	PART	conjunction		namque	discourse	24
+1.4	19	illo	DET	pronoun	Case=Abl|Gender=Masc|Number=Sing	ille	obl	24
+1.4	20	Perses	PROPN	proper_noun	Case=Gen|Gender=Masc|Number=Sing	Perses	nmod	21
+1.4	21	nemo	PRON	noun	Case=Nom|Gender=Masc|Number=Sing	nemo	nsubj	24
+1.4	22	manu	NOUN	noun	Case=Abl|Gender=Fem|Number=Sing	manus	obl	24
+1.4	23	fuit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Perf|VerbForm=Fin	sum	cop	24
+1.4	24	fortior	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	fortis	ROOT	24
+1.4	25	.	PUNCT	punc		.	punct	24
+1.4	26	Mnemon	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Mnemon	nsubj	30
+1.4	27	autem	PART	conjunction		autem	discourse	30
+1.4	28	iustitiae	NOUN	noun	Case=Gen|Gender=Fem|Number=Sing	iustitia	nmod	29
+1.4	29	fama	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	fama	nsubj	30
+1.4	30	floruit	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Perf|VerbForm=Fin|Voice=Act	floreo	ROOT	30
+1.4	31	.	PUNCT	punc		.	punct	30
+1.4	32	nam	PART	conjunction		nam	discourse	41
+1.4	33	cum	SCONJ	conjunction		cum	mark	37
+1.4	34	matris	NOUN	noun	Case=Gen|Gender=Fem|Number=Sing	mater	nmod	36
+1.4	35	suae	DET	determiner	Case=Gen|Gender=Fem|Number=Sing	suus	det	34
+1.4	36	scelere	NOUN	noun	Case=Abl|Gender=Neut|Number=Sing	scelus	obl	37
+1.4	37	amisisset	VERB	verb	Mood=Sub|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	amitto	advcl	41
+1.4	38	uxorem	NOUN	noun	Case=Acc|Gender=Fem|Number=Sing	uxor	obj	37
+1.4	39	,	PUNCT	punc		,	punct	37
+1.4	40	tantum	ADV	adverb		tantus	advmod	41
+1.4	41	indulsit	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Perf|VerbForm=Fin|Voice=Act	indulgeo	ROOT	41
+1.4	42	dolori	NOUN	noun	Case=Dat|Gender=Masc|Number=Sing	dolor	obl:arg	41
+1.4	43	,	PUNCT	punc		,	punct	44
+1.4	44	ut	SCONJ	conjunction		ut	mark	47
+1.4	45	eum	PRON	pronoun	Case=Acc|Gender=Masc|Number=Sing|Person=3	is	obj	47
+1.4	46	pietas	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	pietas	nsubj	47
+1.4	47	vinceret	VERB	verb	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	uinco	advcl	41
+1.4	48	.	PUNCT	punc		.	punct	41
+1.5	0	 	ADV	verb		 	case	6
+1.5	1	ex	ADP	preposition		ex	case	2
+1.5	2	his	DET	pronoun	Case=Abl|Gender=Neut|Number=Plur	hic	obl	9
+1.5	3	duo	NUM	number	Case=Acc|Gender=Neut|Number=Plur	duo	nummod	2
+1.5	4	eodem	DET	pronoun	Case=Abl|Gender=Neut|Number=Sing	idem	det	5
+1.5	5	nomine	NOUN	noun	Case=Abl|Gender=Neut|Number=Sing	nomen	obl	9
+1.5	6	morbo	NOUN	noun	Case=Dat|Gender=Masc|Number=Sing	morbus	obl:arg	8
+1.5	7	naturae	NOUN	noun	Case=Gen|Gender=Fem|Number=Sing	natura	nmod	6
+1.5	8	debitum	VERB	verb	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	debitum	ccomp	9
+1.5	9	reddiderunt	VERB	verb	Mood=Ind|Number=Plur|Person=3|Tense=Perf|VerbForm=Fin|Voice=Act	reddo	ROOT	9
+1.5	10	,	PUNCT	punc		,	punct	16
+1.5	11	tertius	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	tertius	nsubj:pass	16
+1.5	12	ab	ADP	preposition		ab	case	13
+1.5	13	Artabano	PROPN	proper_noun	Case=Abl|Gender=Masc|Number=Sing	Artabano	obl:agent	16
+1.5	14	praefecto	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	praeficio	acl	15
+1.5	15	ferro	NOUN	noun	Case=Abl|Gender=Neut|Number=Sing	ferrum	obl	16
+1.5	16	interemptus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	interimo	conj	9
+1.5	17	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	aux:pass	16
+1.5	18	.	PUNCT	punc		.	punct	9
+2.1	0	Ex	ADP	preposition		ex	case	7
+2.1	1	Macedonum	PROPN	noun	Case=Gen|Gender=Masc|Number=Plur	Macedo	nmod	7
+2.1	2	autem	PART	particle		autem	discourse	7
+2.1	3	gente	NOUN	noun	Case=Abl|Gender=Fem|Number=Sing	gens	nmod	10
+2.1	4	duo	NUM	number	Case=Nom|Gender=Masc|Number=Plur	duo	nsubj	7
+2.1	5	multo	ADV	adverb		multus	dep	6
+2.1	6	ceteros	DET	adjective	Case=Acc|Gender=Masc|Number=Plur	ceterus	obj	7
+2.1	7	antecesserunt	VERB	verb	Mood=Ind|Number=Plur|Person=3|Tense=Perf|VerbForm=Fin|Voice=Act	antecedo	ROOT	7
+2.1	8	rerum	NOUN	noun	Case=Gen|Gender=Fem|Number=Plur	res	nmod	10
+2.1	9	gestarum	VERB	verb	Case=Gen|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	gero	acl	8
+2.1	10	gloria	NOUN	noun	Case=Abl|Gender=Fem|Number=Sing	gloria	obl:arg	7
+2.1	11	:	PUNCT	punc		:	punct	7
+2.1	12	Philippus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Philippus	ROOT	12
+2.1	13	,	PUNCT	punc		,	punct	15
+2.1	14	Amyntae	PROPN	noun	Case=Gen|Gender=Fem|Number=Sing	Amynta	nmod	15
+2.1	15	filius	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	filius	appos	12
+2.1	16	,	PUNCT	punc		,	punct	18
+2.1	17	et	CCONJ	conjunction		et	cc	18
+2.1	18	Alexander	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Alexander	conj	12
+2.1	19	Magnus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Magnus	amod	18
+2.1	20	.	PUNCT	punc		.	punct	12
+2.1	21	horum	DET	adjective	Case=Gen|Gender=Masc|Number=Plur	hic	nmod	22
+2.1	22	alter	DET	adjective	Case=Nom|Gender=Masc|Number=Sing	alter	nsubj:pass	25
+2.1	23	Babylone	PROPN	proper_noun	Case=Abl|Gender=Fem|Number=Sing	Babylon	obl	25
+2.1	24	morbo	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	morbus	obl	25
+2.1	25	consumptus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	consumo	ROOT	25
+2.1	26	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	aux:pass	25
+2.1	27	,	PUNCT	punc		,	punct	40
+2.1	28	Philippus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Philippus	nsubj:pass	40
+2.1	29	Aegiis	NOUN	noun	Case=Abl|Gender=Fem|Number=Plur	Aegius	obl	40
+2.1	30	a	ADP	preposition		ab	case	31
+2.1	31	Pausania	PROPN	noun	Case=Abl|Gender=Masc|Number=Sing	Pausanias	obl:agent	40
+2.1	32	,	PUNCT	punc		,	punct	31
+2.1	33	cum	SCONJ	conjunction		cum	mark	36
+2.1	34	spectatum	VERB	verb	Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	specto	advcl	36
+2.1	35	ludos	NOUN	noun	Case=Acc|Gender=Masc|Number=Plur	ludus	obj	34
+2.1	36	iret	VERB	verb	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	eo	advcl	40
+2.1	37	,	PUNCT	punc		,	punct	36
+2.1	38	iuxta	ADP	preposition		iuxta	case	39
+2.1	39	theatrum	NOUN	noun	Case=Acc|Gender=Neut|Number=Sing	theatrum	obl	40
+2.1	40	occisus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	occido	conj	25
+2.1	41	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	aux:pass	40
+2.1	42	.	PUNCT	punc		.	punct	25
+2.2	0	 	ADV	verb		 	ROOT	0
+2.2	1	unus	NUM	number	Case=Nom|Gender=Masc|Number=Sing	unus	nummod	2
+2.2	2	Epirotes	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Epirotes	nsubj	0
+2.2	3	,	PUNCT	punc		,	punct	4
+2.2	4	Pyrrhus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Pyrrhus	appos	2
+2.2	5	,	PUNCT	punc		,	punct	10
+2.2	6	qui	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing	qui	nsubj	10
+2.2	7	cum	ADP	ADP		cum	case	8
+2.2	8	populo	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	populus	obl	10
+2.2	9	Romano	ADJ	adjective	Case=Abl|Gender=Masc|Number=Sing	Romanus	amod	8
+2.2	10	bellavit	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Perf|VerbForm=Fin|Voice=Act	bello	acl:relcl	4
+2.2	11	.	PUNCT	punc		.	punct	2
+2.2	12	is	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|Person=3	is	nsubj	16
+2.2	13	cum	SCONJ	conjunction		cum	mark	16
+2.2	14	Argos	PROPN	proper_noun	Case=Abl|Gender=Fem|Number=Sing	Argos	nsubj	16
+2.2	15	oppidum	NOUN	noun	Case=Acc|Gender=Neut|Number=Sing	oppidum	obj	16
+2.2	16	oppugnaret	VERB	verb	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	oppugno	advcl	22
+2.2	17	in	ADP	ADP		in	case	18
+2.2	18	Peloponneso	ADJ	proper_noun	Case=Abl|Gender=Neut|Number=Sing	Peloponnesus	obl	16
+2.2	19	,	PUNCT	punc		,	punct	16
+2.2	20	lapide	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	lapis	obj	21
+2.2	21	ictus	NOUN	verb	Case=Nom|Gender=Masc|Number=Sing	ictus	advcl:pred	22
+2.2	22	interiit	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Perf|VerbForm=Fin|Voice=Act	intereo	ROOT	22
+2.2	23	.	PUNCT	punc		.	punct	22
+2.2	24	unus	NUM	number	Case=Nom|Gender=Masc|Number=Sing	unus	nummod	26
+2.2	25	item	ADV	adverb		item	advmod	26
+2.2	26	Siculus	PROPN	adjective	Case=Nom|Gender=Masc|Number=Sing	siculus	ROOT	26
+2.2	27	,	PUNCT	punc		,	punct	28
+2.2	28	Dionysius	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Dionysius	conj	26
+2.2	29	prior	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	prior	amod	28
+2.2	30	.	PUNCT	punc		.	punct	26
+2.2	31	nam	PART	conjunction		nam	discourse	34
+2.2	32	et	CCONJ	conjunction		et	cc	34
+2.2	33	manu	NOUN	noun	Case=Abl|Gender=Fem|Number=Sing	manus	obl	34
+2.2	34	fortis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	fortis	ROOT	34
+2.2	35	et	CCONJ	conjunction		et	cc	36
+2.2	36	belli	NOUN	noun	Case=Gen|Gender=Neut|Number=Sing	bellum	conj	34
+2.2	37	peritus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	peritus	conj	34
+2.2	38	fuit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Perf|VerbForm=Fin	sum	cop	37
+2.2	39	et	CCONJ	conjunction		et	cc	50
+2.2	40	,	PUNCT	punc		,	punct	39
+2.2	41	id	PRON	pronoun	Case=Acc|Gender=Neut|Number=Sing|Person=3	is	obl	50
+2.2	42	quod	PRON	pronoun	Case=Nom|Gender=Neut|Number=Sing	qui	nsubj:pass	47
+2.2	43	in	ADP	ADP		in	case	44
+2.2	44	tyranno	PROPN	proper_noun	Case=Abl|Gender=Masc|Number=Sing	tyrannus	obl	47
+2.2	45	non	PART	particle		non	advmod:neg	46
+2.2	46	facile	ADV	adverb		facilis	advmod	47
+2.2	47	reperitur	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	reperio	acl:relcl	41
+2.2	48	,	PUNCT	punc		,	punct	47
+2.2	49	minime	ADV	adverb		parum	advmod	50
+2.2	50	libidinosus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	libidinosus	conj	37
+2.2	51	,	PUNCT	punc		,	punct	53
+2.2	52	non	PART	particle		non	advmod:neg	53
+2.2	53	luxuriosus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	luxuriosus	conj	50
+2.2	54	,	PUNCT	punc		,	punct	56
+2.2	55	non	PART	particle		non	advmod:neg	56
+2.2	56	avarus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	auarus	conj	50
+2.2	57	,	PUNCT	punc		,	punct	61
+2.2	58	nullius	DET	adjective	Case=Gen|Gender=Fem|Number=Sing	nullus	det	60
+2.2	59	denique	ADV	adverb		denique	advmod	58
+2.2	60	rei	NOUN	noun	Case=Gen|Gender=Fem|Number=Sing	res	nmod	61
+2.2	61	cupidus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	cupidus	conj	50
+2.2	62	nisi	SCONJ	conjunction		nisi	mark	66
+2.2	63	singularis	ADJ	noun	Case=Gen|Gender=Neut|Number=Sing	singularis	amod	66
+2.2	64	perpetui	DET	pronoun	Case=Gen|Gender=Neut|Number=Sing	perpetui	advmod	66
+2.2	65	que	DET	pronoun	Case=Gen|Gender=Neut|Number=Sing	que	advmod	66
+2.2	66	imperii	NOUN	noun	Case=Gen|Gender=Neut|Number=Sing	imperium	nmod	61
+2.2	67	ob	ADP	ADP		ob	case	70
+2.2	68	eam	PRON	pronoun	Case=Acc|Gender=Fem|Number=Sing	is	det	70
+2.2	69	que	DET	pronoun	Case=Acc|Gender=Fem|Number=Sing	que	det	70
+2.2	70	rem	NOUN	noun	Case=Acc|Gender=Fem|Number=Sing	res	obl	71
+2.2	71	crudelis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	crudelis	dep	50
+2.2	72	:	PUNCT	punc		:	punct	34
+2.2	73	nam	PART	conjunction		nam	discourse	80
+2.2	74	dum	SCONJ	conjunction		dum	mark	76
+2.2	75	id	PRON	adjective	Case=Acc|Gender=Neut|Number=Sing|Person=3	is	obj	76
+2.2	76	studuit	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Perf|VerbForm=Fin|Voice=Act	studeo	advcl	80
+2.2	77	munire	VERB	verb	Tense=Pres|VerbForm=Inf|Voice=Act	munio	xcomp	76
+2.2	78	,	PUNCT	punc		,	punct	76
+2.2	79	nullius	DET	adjective	Case=Gen|Gender=Fem|Number=Sing	nullus	det	84
+2.2	80	pepercit	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Perf|VerbForm=Fin|Voice=Act	parco	ROOT	80
+2.2	81	vitae	NOUN	noun	Case=Gen|Gender=Fem|Number=Sing	uita	nmod	75
+2.2	82	,	PUNCT	punc		,	punct	86
+2.2	83	quem	PRON	pronoun	Case=Acc|Gender=Masc|Number=Sing	qui	obj	86
+2.2	84	eius	PRON	pronoun	Case=Gen|Gender=Fem|Number=Sing|Person=3	is	nmod	85
+2.2	85	insidiatorem	NOUN	noun	Case=Acc|Gender=Masc|Number=Sing	insidiator	xcomp	86
+2.2	86	putaret	VERB	verb	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	puto	acl:relcl	75
+2.2	87	.	PUNCT	punc		.	punct	80
+2.3	0	 	ADV	verb		 	advmod	9
+2.3	1	hic	DET	adverb	Case=Nom|Gender=Masc|Number=Sing	hic	advmod:lmod	6
+2.3	2	cum	SCONJ	conjunction		cum	case	3
+2.3	3	virtute	NOUN	noun	Case=Abl|Gender=Fem|Number=Sing	uirtus	obl	6
+2.3	4	tyrannidem	PROPN	noun	Case=Acc|Gender=Masc|Number=Sing	tyrannis	obj	6
+2.3	5	sibi	PRON	pronoun	Case=Dat|Number=Sing|Person=3	sui	obl	6
+2.3	6	peperisset	VERB	verb	Mood=Sub|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	pario	advcl	9
+2.3	7	,	PUNCT	punc		,	punct	6
+2.3	8	magna	ADJ	adjective	Case=Abl|Gender=Fem|Number=Sing	magnus	amod	9
+2.3	9	retinuit	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Perf|VerbForm=Fin|Voice=Act	retineo	ROOT	9
+2.3	10	felicitate	NOUN	noun	Case=Abl|Gender=Fem|Number=Sing	felicitas	obl	9
+2.3	11	:	PUNCT	punc		:	punct	9
+2.3	12	maior	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	maior	nsubj	17
+2.3	13	enim	PART	particle		enim	discourse	17
+2.3	14	annos	NOUN	noun	Case=Acc|Gender=Masc|Number=Plur	annus	obl	17
+2.3	15	sexaginta	NUM	number		sexaginta	nummod	14
+2.3	16	natus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	nascor	nsubj	17
+2.3	17	decessit	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Perf|VerbForm=Fin|Voice=Act	decedo	ROOT	17
+2.3	18	florente	VERB	verb	Case=Abl|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act	floreo	advcl:abs	17
+2.3	19	regno	NOUN	noun	Case=Abl|Gender=Neut|Number=Sing	regnum	nsubj	18
+2.3	20	.	PUNCT	punc		.	punct	17
+2.3	21	neque	CCONJ	conjunction		neque	cc	31
+2.3	22	in	ADP	preposition		in	case	25
+2.3	23	tam	ADV	adverb		tam	dep	25
+2.3	24	multis	DET	adjective	Case=Abl|Gender=Masc|Number=Plur	multus	det	25
+2.3	25	annis	NOUN	noun	Case=Abl|Gender=Masc|Number=Plur	annus	obl	31
+2.3	26	cuiusquam	DET	pronoun	Case=Gen|Gender=Masc|Number=Sing	quisquam	nmod	31
+2.3	27	ex	ADP	preposition		ex	case	29
+2.3	28	sua	DET	determiner	Case=Abl|Gender=Fem|Number=Sing	suus	det	29
+2.3	29	stirpe	NOUN	noun	Case=Abl|Gender=Fem|Number=Sing	stirpes	obl	31
+2.3	30	funus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	funus	obj	31
+2.3	31	vidit	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Perf|VerbForm=Fin|Voice=Act	uideo	ROOT	31
+2.3	32	,	PUNCT	punc		,	punct	33
+2.3	33	cum	SCONJ	conjunction		cum	mark	38
+2.3	34	ex	ADP	preposition		ex	case	36
+2.3	35	tribus	NUM	number	Case=Abl|Gender=Fem|Number=Plur	tres	nummod	36
+2.3	36	uxoribus	NOUN	noun	Case=Abl|Gender=Fem|Number=Plur	uxor	obl	38
+2.3	37	liberos	NOUN	noun	Case=Acc|Gender=Masc|Number=Plur	liberi	obj	38
+2.3	38	procreasset	VERB	verb	Mood=Sub|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	procreo	advcl	42
+2.3	39	multi	DET	adjective	Case=Nom|Gender=Masc|Number=Plur	multi	advcl:pred	42
+2.3	40	que	DET	adjective	Case=Nom|Gender=Masc|Number=Plur	quis	advcl:pred	42
+2.3	41	ei	PRON	pronoun	Case=Dat|Gender=Masc|Number=Sing|Person=3	is	dep	42
+2.3	42	nati	VERB	verb	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	natis	acl:relcl	30
+2.3	43	essent	AUX	verb	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	sum	aux:pass	42
+2.3	44	nepotes	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	nepos	nsubj:pass	42
+2.3	45	.	PUNCT	punc		.	punct	31
+3.1	0	Fuerunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Perf|VerbForm=Fin	sum	cop	3
+3.1	1	praeterea	ADV	adverb		praeterea	advcl	3
+3.1	2	magni	ADJ	adjective	Case=Nom|Gender=Masc|Number=Plur	magnus	amod	3
+3.1	3	reges	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	rex	ROOT	3
+3.1	4	ex	ADP	preposition		ex	case	5
+3.1	5	amicis	NOUN	noun	Case=Abl|Gender=Masc|Number=Plur	amicus	obl	3
+3.1	6	Alexandri	PROPN	proper_noun	Case=Gen|Gender=Masc|Number=Sing	Alexander	nmod	5
+3.1	7	Magni	ADJ	adjective	Case=Gen|Gender=Masc|Number=Sing	Magnus	amod	6
+3.1	8	,	PUNCT	punc		,	punct	14
+3.1	9	qui	PRON	pronoun	Case=Nom|Gender=Masc|Number=Plur	qui	nsubj	14
+3.1	10	post	ADP	preposition		post	case	11
+3.1	11	obitum	NOUN	noun	Case=Acc|Gender=Masc|Number=Sing	obitus	obl	14
+3.1	12	eius	PRON	pronoun	Case=Gen|Gender=Masc|Number=Sing|Person=3	is	nmod	11
+3.1	13	imperia	NOUN	noun	Case=Acc|Gender=Neut|Number=Plur	imperium	obj	14
+3.1	14	ceperunt	VERB	verb	Mood=Ind|Number=Plur|Person=3|Tense=Perf|VerbForm=Fin|Voice=Act	capio	acl:relcl	3
+3.1	15	,	PUNCT	punc		,	punct	17
+3.1	16	in	ADP	preposition		in	case	17
+3.1	17	eis	PRON	pronoun	Case=Abl|Gender=Masc|Number=Plur|Person=3	is	obl	14
+3.1	18	Antigonus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Antigonus	appos	9
+3.1	19	et	CCONJ	conjunction		et	cc	21
+3.1	20	huius	DET	pronoun	Case=Gen|Gender=Masc|Number=Sing	hic	nmod	21
+3.1	21	filius	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	filius	conj	18
+3.1	22	Demetrius	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Demetrius	flat	21
+3.1	23	,	PUNCT	punc		,	punct	24
+3.1	24	Lysimachus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Lysimachus	conj	18
+3.1	25	,	PUNCT	punc		,	punct	26
+3.1	26	Seleucus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Seleucus	conj	18
+3.1	27	,	PUNCT	punc		,	punct	28
+3.1	28	Ptolemaeus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Ptolemaeus	conj	18
+3.1	29	.	PUNCT	punc		.	punct	3
+3.2	0	 	ADV	verb		 	ROOT	0
+3.2	1	ex	ADP	ADP		ex	case	2
+3.2	2	his	DET	adjective	Case=Abl|Gender=Masc|Number=Plur	hic	obl	0
+3.2	3	Antigonus	PROPN	noun	Case=Nom|Gender=Masc|Number=Sing	Antigonus	nsubj:pass	14
+3.2	4	in	ADP	ADP		in	case	5
+3.2	5	proelio	NOUN	noun	Case=Abl|Gender=Neut|Number=Sing	proelium	obl	14
+3.2	6	,	PUNCT	punc		,	punct	5
+3.2	7	cum	SCONJ	conjunction		cum	mark	12
+3.2	8	adversus	ADP	ADP		aduersus	case	9
+3.2	9	Seleucum	PROPN	proper_noun	Case=Acc|Gender=Masc|Number=Sing	Seleucus	obl	12
+3.2	10	et	CCONJ	conjunction		et	cc	11
+3.2	11	Lysimachum	PROPN	proper_noun	Case=Acc|Gender=Masc|Number=Sing	Lysimachus	conj	9
+3.2	12	dimicaret	VERB	verb	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	dimico	advcl	14
+3.2	13	,	PUNCT	punc		,	punct	12
+3.2	14	occisus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	occido	case	2
+3.2	15	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	aux:pass	14
+3.2	16	.	PUNCT	punc		.	punct	14
+3.2	17	pari	ADJ	adjective	Case=Abl|Gender=Fem|Number=Sing	par	amod	18
+3.2	18	leto	ADJ	adjective	Case=Abl|Gender=Masc|Number=Sing	leto	obl	19
+3.2	19	affectus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	afficio	ROOT	19
+3.2	20	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	aux:pass	19
+3.2	21	Lysimachus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Lysimachus	nsubj:pass	19
+3.2	22	ab	ADP	ADP		ab	case	23
+3.2	23	Seleuco	PROPN	proper_noun	Case=Abl|Gender=Masc|Number=Sing	Seleucus	obl:agent	19
+3.2	24	:	PUNCT	punc		:	punct	19
+3.2	25	namque	PART	conjunction		namque	discourse	31
+3.2	26	societate	NOUN	noun	Case=Abl|Gender=Fem|Number=Sing	societas	nsubj:pass	27
+3.2	27	dissoluta	VERB	verb	Case=Abl|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	dissoluo	advcl:abs	31
+3.2	28	bellum	NOUN	noun	Case=Acc|Gender=Neut|Number=Sing	bellum	obj	31
+3.2	29	inter	ADP	ADP		inter	case	30
+3.2	30	se	PRON	pronoun	Case=Acc|Number=Plur|Person=3	sui	obl	31
+3.2	31	gesserunt	VERB	verb	Mood=Ind|Number=Plur|Person=3|Tense=Perf|VerbForm=Fin|Voice=Act	gero	ROOT	31
+3.2	32	.	PUNCT	punc		.	punct	31
+3.3	0	 	ADV	verb		 	amod	2
+3.3	1	at	CCONJ	preposition		at	discourse	27
+3.3	2	Demetrius	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Demetrius	nsubj	27
+3.3	3	,	PUNCT	punc		,	punct	2
+3.3	4	cum	SCONJ	conjunction		cum	mark	10
+3.3	5	filiam	NOUN	noun	Case=Acc|Gender=Fem|Number=Sing	filia	obj	10
+3.3	6	suam	DET	determiner	Case=Acc|Gender=Fem|Number=Sing	suus	det	5
+3.3	7	Seleuco	PROPN	proper_noun	Case=Dat|Gender=Masc|Number=Sing	Seleucus	obl:arg	10
+3.3	8	in	ADP	preposition		in	case	9
+3.3	9	matrimonium	NOUN	noun	Case=Acc|Gender=Neut|Number=Sing	matrimonium	obl	10
+3.3	10	dedisset	VERB	verb	Mood=Sub|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	do	advcl	27
+3.3	11	neque	CCONJ	adverb		neque	cc	19
+3.3	12	eo	PRON	pronoun	Case=Abl|Gender=Neut|Number=Sing|Person=3	is	advmod	13
+3.3	13	magis	ADV	adverb		magis	advmod	18
+3.3	14	fida	ADJ	adjective	Case=Nom|Gender=Fem|Number=Sing	fidus	amod	17
+3.3	15	inter	ADP	preposition		inter	case	16
+3.3	16	eos	PRON	pronoun	Case=Acc|Gender=Masc|Number=Plur|Person=3	is	obl	14
+3.3	17	amicitia	NOUN	noun	Case=Abl|Gender=Fem|Number=Sing	amicitia	nsubj	18
+3.3	18	manere	VERB	verb	Tense=Pres|VerbForm=Inf|Voice=Act	maneo	ccomp	19
+3.3	19	potuisset	VERB	verb	Mood=Sub|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	possum	conj	10
+3.3	20	,	PUNCT	punc		,	punct	10
+3.3	21	captus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	capio	advcl	27
+3.3	22	bello	NOUN	noun	Case=Abl|Gender=Neut|Number=Sing	bellum	obl	21
+3.3	23	in	ADP	preposition		in	case	24
+3.3	24	custodia	NOUN	noun	Case=Abl|Gender=Fem|Number=Sing	custodia	obl	27
+3.3	25	socer	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	socer	nsubj	27
+3.3	26	generi	NOUN	noun	Case=Dat|Gender=Neut|Number=Sing	genus	nmod	25
+3.3	27	periit	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Perf|VerbForm=Fin|Voice=Act	pereo	ROOT	27
+3.3	28	a	ADP	preposition		ab	case	29
+3.3	29	morbo	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	morbus	obl	27
+3.3	30	.	PUNCT	punc		.	punct	27
+3.4	0	 	ADV	verb		 	ROOT	0
+3.4	1	neque	CCONJ	conjunction		neque	cc	10
+3.4	2	ita	ADV	adverb		ita	advmod	3
+3.4	3	multo	ADV	adverb		multus	obl	4
+3.4	4	post	ADV	preposition		post	advmod:tmod	10
+3.4	5	Seleucus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Seleucus	nsubj:pass	10
+3.4	6	a	ADP	preposition		ab	dep	7
+3.4	7	Ptolemaeo	PROPN	proper_noun	Case=Abl|Gender=Masc|Number=Sing	Ptolemaeus	obl:agent	10
+3.4	8	Cerauno	PROPN	proper_noun	Case=Abl|Gender=Masc|Number=Sing	Ceraunus	flat:name	7
+3.4	9	dolo	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	dolus	obl	10
+3.4	10	interfectus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	interficio	conj	0
+3.4	11	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	aux:pass	10
+3.4	12	,	PUNCT	punc		,	punct	22
+3.4	13	quem	PRON	pronoun	Case=Acc|Gender=Masc|Number=Sing	qui	obj	22
+3.4	14	ille	DET	pronoun	Case=Nom|Gender=Masc|Number=Sing	ille	nsubj	22
+3.4	15	a	ADP	preposition		ab	case	16
+3.4	16	patre	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	pater	obl:agent	17
+3.4	17	expulsum	VERB	verb	Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	expulsum	advcl:abs	22
+3.4	18	Alexandrea	PROPN	proper_noun	Case=Abl|Gender=Fem|Number=Sing	Alexandrea	nsubj	22
+3.4	19	alienarum	ADJ	adjective	Case=Gen|Gender=Fem|Number=Plur	alienus	nmod	20
+3.4	20	opum	NOUN	noun	Case=Acc|Gender=Masc|Number=Sing	ops	obj	21
+3.4	21	indigentem	VERB	verb	Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	indigeo	advcl:pred	22
+3.4	22	receperat	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	recipio	acl:relcl	5
+3.4	23	.	PUNCT	punc		.	punct	10
+3.4	24	ipse	DET	determiner	Case=Nom|Gender=Masc|Number=Sing	ipse	det	26
+3.4	25	autem	PART	particle		autem	discourse	39
+3.4	26	Ptolemaeus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Ptolemaeus	nsubj:pass	39
+3.4	27	,	PUNCT	punc		,	punct	26
+3.4	28	cum	SCONJ	conjunction		cum	mark	32
+3.4	29	vivus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	uiuus	amod	30
+3.4	30	filio	NOUN	noun	Case=Dat|Gender=Masc|Number=Sing	filius	obl:arg	32
+3.4	31	regnum	NOUN	noun	Case=Acc|Gender=Neut|Number=Sing	regnum	obj	32
+3.4	32	tradidisset	VERB	verb	Mood=Sub|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	trado	advcl	39
+3.4	33	,	PUNCT	punc		,	punct	32
+3.4	34	ab	ADP	preposition		ab	case	35
+3.4	35	illo	DET	pronoun	Case=Abl|Gender=Masc|Number=Sing	ille	obl:agent	39
+3.4	36	eodem	DET	pronoun	Case=Abl|Gender=Masc|Number=Sing	idem	det	35
+3.4	37	vita	NOUN	noun	Case=Abl|Gender=Fem|Number=Sing	uita	nsubj:pass	39
+3.4	38	privatus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	priuatus	xcomp	39
+3.4	39	dicitur	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	dico	ROOT	39
+3.4	40	.	PUNCT	punc		.	punct	39
+3.5	0	De	ADP	preposition		de	case	1
+3.5	1	quibus	PRON	pronoun	Case=Abl|Gender=Neut|Number=Plur	qui	obl	5
+3.5	2	quoniam	SCONJ	conjunction		quoniam	mark	5
+3.5	3	satis	ADV	adverb		satis	advmod	4
+3.5	4	dictum	VERB	verb	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	dico	ccomp	5
+3.5	5	putamus	VERB	verb	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	puto	advcl	9
+3.5	6	,	PUNCT	punc		,	punct	5
+3.5	7	non	PART	particle		non	advmod:neg	9
+3.5	8	incommodum	ADJ	adverb	Case=Nom|Gender=Neut|Number=Sing	incommodum	xcomp	9
+3.5	9	videtur	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	uideo	ROOT	9
+3.5	10	non	PART	particle		non	advmod:neg	11
+3.5	11	praeterire	VERB	verb	Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Inf|Voice=Act	praetereo	csubj:pass	9
+3.5	12	Hamilcarem	PROPN	verb	Case=Acc|Gender=Masc|Number=Sing	Hamilcar	nsubj	11
+3.5	13	et	CCONJ	conjunction		et	cc	14
+3.5	14	Hannibalem	PROPN	proper_noun	Case=Acc|Gender=Masc|Number=Sing	Hannibal	conj	12
+3.5	15	,	PUNCT	punc		,	punct	27
+3.5	16	quos	PRON	pronoun	Case=Acc|Gender=Masc|Number=Plur	qui	nsubj	26
+3.5	17	et	CCONJ	conjunction		et	cc	19
+3.5	18	animi	NOUN	noun	Case=Gen|Gender=Masc|Number=Sing	animus	nmod	19
+3.5	19	magnitudine	NOUN	noun	Case=Abl|Gender=Fem|Number=Sing	magnitudo	obl	25
+3.5	20	et	CCONJ	conjunction		et	cc	21
+3.5	21	calliditate	NOUN	noun	Case=Abl|Gender=Fem|Number=Sing	calliditas	conj	19
+3.5	22	omnes	DET	adjective	Case=Acc|Gender=Masc|Number=Plur	omnis	det	19
+3.5	23	in	ADP	preposition		in	case	24
+3.5	24	Africa	PROPN	proper_noun	Case=Abl|Gender=Fem|Number=Sing	Africa	obl	25
+3.5	25	natos	VERB	verb	Case=Acc|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	nascor	acl	16
+3.5	26	praestitisse	VERB	verb	Tense=Perf|VerbForm=Inf|Voice=Act	praesto	ccomp	27
+3.5	27	constat	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	consto	acl:relcl	12
+3.5	28	.	PUNCT	punc		.	punct	9
